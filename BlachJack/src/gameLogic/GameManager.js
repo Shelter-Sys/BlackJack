@@ -1,6 +1,6 @@
 import CardManager from './CardsLogic.js';
 
-export default GameManager;
+
 
 
 
@@ -27,3 +27,4 @@ class GameManager extends CardManager {
 
 
 }
+export default GameManager;
